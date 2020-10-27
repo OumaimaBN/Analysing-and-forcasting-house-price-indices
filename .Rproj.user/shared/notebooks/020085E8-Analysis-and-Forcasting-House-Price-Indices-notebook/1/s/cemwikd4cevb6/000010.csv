@@ -1,0 +1,6 @@
+"0",""
+"0","# convert indices to time series with function ""ts()"""
+"0","hpi <- ts(houseIndex$index, start=c(1990,1), frequency=12)"
+"0","# decomposition of time series by function ""stl()"""
+"0","f <- stl(hpi, ""per"")"
+"0","plot(f)"

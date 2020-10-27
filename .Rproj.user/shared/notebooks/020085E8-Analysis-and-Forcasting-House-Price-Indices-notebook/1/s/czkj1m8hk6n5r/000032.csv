@@ -1,0 +1,4 @@
+"0","# ##################################################"
+"0","ts.plot(fore$pred, U, L, col=c(""blue"",""green"",""red""), "
+"0","        lty=c(5,2,2), gpars=list(xaxt=""n"",xlab=""""),"
+"0","        ylab=""Index"", main=""House Price Trading Index Forecast (Canberra)"")"

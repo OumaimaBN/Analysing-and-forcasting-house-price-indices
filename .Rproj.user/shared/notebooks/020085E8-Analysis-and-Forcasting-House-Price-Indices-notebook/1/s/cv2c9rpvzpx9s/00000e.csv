@@ -1,0 +1,2 @@
+"0","houseIndex$delta <- houseIndex$index - c(1, houseIndex$index[-n])"
+"0","plot(houseIndex$delta, main=""Increase in HPI"", xaxt=""n"", xlab="""")"

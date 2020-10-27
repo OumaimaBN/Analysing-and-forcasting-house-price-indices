@@ -1,0 +1,3 @@
+"0","# draw a vertical reference line every five years"
+"0","posEvery5years <- 12 * (5* 1:ceiling(nYear/5) - 4) - 11"
+"0","abline(v=posEvery5years, col=""gray"", lty=""dotted"")"

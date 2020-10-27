@@ -1,0 +1,3 @@
+"0","fromYear <- houseIndex$year[1]"
+"0","plot(houseIndex$index, pty=1, type=""l"", lty=""solid"", xaxt=""n"", xlab="""","
+"0","     ylab=""Index"", main=paste(""HPI (Canberra) - Since "", fromYear, sep=""""))"

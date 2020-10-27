@@ -1,0 +1,4 @@
+"0",""
+"0","# plot seasonal components"
+"0","plot(f$time.series[1:12,""seasonal""], type='b', xlab=""Month"", "
+"0","     ylab=""Seasonal Components"")"

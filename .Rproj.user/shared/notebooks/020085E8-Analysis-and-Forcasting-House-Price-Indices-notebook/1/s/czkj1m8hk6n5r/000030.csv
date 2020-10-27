@@ -1,0 +1,3 @@
+"0","legend(""topleft"", col=c(""black"", ""blue"",""green"",""red""), lty=c(1,5,2,2),"
+"0","       c(""Actual Index"", ""Forecast"", ""Upper Bound (95% Confidence)"", "
+"0","         ""Lower Bound (95% Confidence)""))"

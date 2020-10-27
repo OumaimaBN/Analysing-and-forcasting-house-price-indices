@@ -1,0 +1,1 @@
+"0","axis(1, labels=houseIndex$date[posEveryYear], las=3, at=posEveryYear)"

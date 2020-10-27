@@ -1,0 +1,4 @@
+"0","# draw tick-marks at 31 Jan of every year"
+"0","nYear <- ceiling(n/12)"
+"0","posEveryYear <- 12 * (1:nYear) - 11"
+"0","axis(1, labels=houseIndex$date[posEveryYear], las=3, at=posEveryYear)"
